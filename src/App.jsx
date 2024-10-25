@@ -33,6 +33,7 @@ function App() {
                 <div className="col-lg-6 p-2"><img className="img-fluid" src="images/illustrations/hello3.png" alt="hello" style= {{ maxWidth: '100%', maxHeight: '100%' }}/></div>
                 <div className="col-lg-6">
                   <div className="mt-5">
+                    <br/>
                     <p className="lead text-uppercase mb-1">Hello!</p>
                     <h1 className="intro-title marker" data-aos="fade-up"> I’m Rizalyne</h1>
                     <p className="lead fw-normal mt-3" data-aos="fade-up" data-aos-delay="100"> Web Developer & Designer</p>
@@ -67,8 +68,11 @@ function App() {
           </div>
           <div className="wave-bg"></div>
         </header>
-
+      
       <div className="section pt-4 px-3 px-lg-4" id="about">
+      <br/>
+      <br/>
+      <br/>
         <div className="container-narrow">
           <div className="row">
             <div className="col-md-6">
